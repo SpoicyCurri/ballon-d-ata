@@ -1,6 +1,6 @@
-# ⚽ Ballon D'App 🏆
+# ⚽ Ballon d'Ata 🏆
 
-A web scraping tool that collected all the Balon d'Or nominations data into a single time series dataset, including the full history from 1956 to 2025. Also an animated racing bar chart of total nominations of players during their active periods.
+A web scraping tool that collected all the Ballon d'Or nominations data into a single time series dataset, including the full history from 1956 to 2025. Also an animated racing bar chart of total nominations of players during their active periods.
 
 ## 🚀 Setup
 
