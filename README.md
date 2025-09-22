@@ -42,7 +42,7 @@ uv run visuals/bar_chart_races.py
 
 ### 🕷️ Web Scraping Tool
 
-The web scraping component (`main.py`) is designed to collect Ballon d'Or voting data from Wikipedia across multiple years (1956-2024). It includes:
+The web scraping component (`main.py`) is designed to collect Ballon d'Or voting data from Wikipedia across multiple years (1956-2025). It includes:
 
 **Key Components:**
 - **🌐 WebScraper**: Handles HTTP requests with proper user-agent headers and error handling
