@@ -1,5 +1,7 @@
 # ⚽ Ballon d'Ata 🏆
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A web scraping tool that collected all the Ballon d'Or nominations data into a single time series dataset, including the full history from 1956 to 2025. Also an animated racing bar chart of total nominations of players during their active periods.
 
 ## 🚀 Setup
