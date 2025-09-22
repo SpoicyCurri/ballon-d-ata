@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A web scraping tool that collected all the Ballon d'Or nominations data into a single time series dataset, including the full history from 1956 to 2025. Also an animated racing bar chart of total nominations of players during their active periods.
+A web scraping tool that has collected all the Ballon d'Or nominations data from the [Ballon d'Or Wikipedia](https://en.wikipedia.org/wiki/Ballon_d%27Or) into a single time series dataset, including the full history from 1956 to 2025. Also an animated racing bar chart of total nominations of players during their active periods.
 
 ## 🚀 Setup
 
@@ -18,8 +18,8 @@ Clone the repository and set up the Python environment:
 
 ```bash
 # Clone the repository
-git clone git@github.com:SpoicyCurri/balon-dapp.git
-cd balon-dapp
+git clone git@github.com:SpoicyCurri/ballon-d-ata.git
+cd ballon-d-ata
 
 # Create a virtual environment and install dependencies
 uv sync
