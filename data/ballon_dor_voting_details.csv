@@ -1,0 +1,197 @@
+rank,player,nationality,club,points,1st,2nd,3rd,4th,5th,votes,year,percent
+1,Pavel Nedvěd,Czech Republic,Juventus,190,27.0,9.0,2.0,6.0,1.0,45,2003,24.359
+2,Thierry Henry,France,Arsenal,128,8.0,9.0,14.0,4.0,2.0,37,2003,16.4103
+3,Paolo Maldini,Italy,Milan,123,7.0,13.0,7.0,4.0,7.0,38,2003,15.7692
+4,Andriy Shevchenko,Ukraine,Milan,67,3.0,8.0,3.0,4.0,3.0,21,2003,8.5897
+5,Zinedine Zidane,France,Real Madrid,64,4.0,1.0,5.0,9.0,7.0,26,2003,8.2051
+6,Ruud van Nistelrooy,Netherlands,Manchester United,61,1.0,4.0,5.0,11.0,3.0,24,2003,7.8205
+7,Raúl,Spain,Real Madrid,32,1.0,2.0,4.0,1.0,5.0,13,2003,4.1026
+8,Roberto Carlos,Brazil,Real Madrid,27,1.0,3.0,3.0,,1.0,8,2003,3.4615
+9,Gianluigi Buffon,Italy,Juventus,19,,1.0,2.0,3.0,3.0,9,2003,2.4359
+10,David Beckham,England,Manchester United~~~Real Madrid,17,,2.0,1.0,2.0,2.0,7,2003,2.1795
+11,Ronaldo,Brazil,Real Madrid,11,,,1.0,2.0,4.0,7,2003,1.4103
+12,Henrik Larsson,Sweden,Celtic,6,,,2.0,,,2,2003,0.7692
+13,Alessandro Del Piero,Italy,Juventus,4,,,1.0,,1.0,2,2003,0.5128
+13,Dida,Brazil,Milan,4,,,1.0,,1.0,2,2003,0.5128
+13,Roy Makaay,Netherlands,Deportivo La Coruña~~~Bayern Munich,4,,,1.0,,1.0,2,2003,0.5128
+13,Alessandro Nesta,Italy,Milan,4,,,,2.0,,2,2003,0.5128
+13,Deco,Portugal,Porto,4,,,,,4.0,4,2003,0.5128
+18,Nihat Kahveci,Turkey,Real Sociedad,3,,,,1.0,1.0,2,2003,0.3846
+18,Francesco Totti,Italy,Roma,3,,,,1.0,1.0,2,2003,0.3846
+20,Michael Ballack,Germany,Bayern Munich,2,,,,1.0,,1,2003,0.2564
+20,Zlatan Ibrahimović,Sweden,Ajax,2,,,,1.0,,1,2003,0.2564
+22,Filippo Inzaghi,Italy,Milan,1,,,,,1.0,1,2003,0.1282
+22,Jan Koller,Czech Republic,Borussia Dortmund,1,,,,,1.0,1,2003,0.1282
+22,Adrian Mutu,Romania,Parma~~~Chelsea,1,,,,,1.0,1,2003,0.1282
+22,Ronaldinho,Brazil,Paris Saint-Germain~~~Barcelona,1,,,,,1.0,1,2003,0.1282
+22,Francesco Toldo,Italy,Internazionale,1,,,,,1.0,1,2003,0.1282
+27,Sol Campbell,England,Arsenal,0,,,,,,0,2003,0.0
+27,Iker Casillas,Spain,Real Madrid,0,,,,,,0,2003,0.0
+27,Cristian Chivu,Romania,Ajax~~~Roma,0,,,,,,0,2003,0.0
+27,Samuel Eto'o,Cameroon,Mallorca,0,,,,,,0,2003,0.0
+27,Luís Figo,Portugal,Real Madrid,0,,,,,,0,2003,0.0
+27,Giovane Élber,Brazil,Bayern Munich~~~Lyon,0,,,,,,0,2003,0.0
+27,Ludovic Giuly,France,Monaco,0,,,,,,0,2003,0.0
+27,Oliver Kahn,Germany,Bayern Munich,0,,,,,,0,2003,0.0
+27,Patrick Kluivert,Netherlands,Barcelona,0,,,,,,0,2003,0.0
+27,Darko Kovačević,Serbia and Montenegro,Real Sociedad,0,,,,,,0,2003,0.0
+27,Claude Makélélé,France,Real Madrid~~~Chelsea,0,,,,,,0,2003,0.0
+27,Michael Owen,England,Liverpool,0,,,,,,0,2003,0.0
+27,Pauleta,Portugal,Bordeaux~~~Paris Saint-Germain,0,,,,,,0,2003,0.0
+27,Robert Pires,France,Arsenal,0,,,,,,0,2003,0.0
+27,Míchel Salgado,Spain,Real Madrid,0,,,,,,0,2003,0.0
+27,Paul Scholes,England,Manchester United,0,,,,,,0,2003,0.0
+27,Lilian Thuram,France,Juventus,0,,,,,,0,2003,0.0
+27,Hatem Trabelsi,Tunisia,Ajax,0,,,,,,0,2003,0.0
+27,David Trezeguet,France,Juventus,0,,,,,,0,2003,0.0
+27,Patrick Vieira,France,Arsenal,0,,,,,,0,2003,0.0
+27,Christian Vieri,Italy,Internazionale,0,,,,,,0,2003,0.0
+27,Sylvain Wiltord,France,Arsenal,0,,,,,,0,2003,0.0
+27,Gianluca Zambrotta,Italy,Juventus,0,,,,,,0,2003,0.0
+1,Andriy Shevchenko,Ukraine,Milan,175,27.0,5.0,5.0,2.0,1.0,40,2004,22.4359
+2,Deco,Portugal,Porto~~~Barcelona,139,10.0,13.0,9.0,4.0,2.0,38,2004,17.8205
+3,Ronaldinho,Brazil,Barcelona,133,9.0,13.0,7.0,4.0,7.0,40,2004,17.0513
+4,Thierry Henry,France,Arsenal,80,3.0,6.0,6.0,10.0,3.0,28,2004,10.2564
+5,Theodoros Zagorakis,Greece,AEK Athens~~~Bologna,44,3.0,2.0,3.0,3.0,6.0,17,2004,5.641
+6,Adriano,Brazil,Parma~~~Internazionale,27,,3.0,2.0,2.0,5.0,12,2004,3.4615
+7,Pavel Nedvěd,Czech Republic,Juventus,23,,,4.0,4.0,3.0,11,2004,2.9487
+8,Wayne Rooney,England,Everton,22,,1.0,3.0,2.0,5.0,11,2004,2.8205
+9,Ricardo Carvalho,Portugal,Porto~~~Chelsea,18,,2.0,2.0,2.0,,6,2004,2.3077
+9,Ruud van Nistelrooy,Netherlands,Manchester United,18,,,4.0,2.0,2.0,8,2004,2.3077
+11,Angelos Charisteas,Greece,Werder Bremen,15,,1.0,1.0,2.0,4.0,8,2004,1.9231
+12,Cristiano Ronaldo,Portugal,Manchester United,11,,1.0,1.0,2.0,,4,2004,1.4103
+12,Milan Baroš,Czech Republic,Liverpool,11,,1.0,,3.0,1.0,5,2004,1.4103
+14,Zlatan Ibrahimović,Sweden,Ajax~~~Juventus,8,,,,3.0,2.0,5,2004,1.0256
+15,Samuel Eto'o,Cameroon,Mallorca~~~Barcelona,7,,1.0,1.0,,,2,2004,0.8974
+15,Kaká,Brazil,Milan,7,,1.0,,1.0,1.0,3,2004,0.8974
+17,Traianos Dellas,Greece,Roma,5,,1.0,,,1.0,2,2004,0.641
+17,Fernando Morientes,Spain,Monaco~~~Real Madrid,5,,1.0,,,1.0,2,2004,0.641
+17,Frank Lampard,England,Chelsea,5,,,1.0,1.0,,2,2004,0.641
+17,Didier Drogba,Ivory Coast,Marseille~~~Chelsea,5,,,1.0,,2.0,3,2004,0.641
+17,Gianluigi Buffon,Italy,Juventus,5,,,1.0,,2.0,3,2004,0.641
+22,Luís Figo,Portugal,Real Madrid,4,,,,2.0,,2,2004,0.5128
+23,Zinedine Zidane,France,Real Madrid,3,,,1.0,,,1,2004,0.3846
+24,Rubén Baraja,Spain,Valencia,2,,,,1.0,,1,2004,0.2564
+24,Ludovic Giuly,France,Monaco~~~Barcelona,2,,,,1.0,,1,2004,0.2564
+24,Maniche,Portugal,Porto,2,,,,1.0,,1,2004,0.2564
+24,Antonios Nikopolidis,Greece,Panathinaikos~~~Olympiacos,2,,,,,2.0,2,2004,0.2564
+28,Paolo Maldini,Italy,Milan,1,,,,,1.0,1,2004,0.1282
+28,Vicente,Spain,Valencia,1,,,,,1.0,1,2004,0.1282
+30,Roberto Ayala,Argentina,Valencia,0,,,,,,0,2004,0.0
+30,Fabien Barthez,France,Manchester United~~~Marseille,0,,,,,,0,2004,0.0
+30,David Beckham,England,Real Madrid,0,,,,,,0,2004,0.0
+30,Petr Čech,Czech Republic,Chelsea,0,,,,,,0,2004,0.0
+30,Emerson,Brazil,Roma~~~Juventus,0,,,,,,0,2004,0.0
+30,Juninho,Brazil,Lyon,0,,,,,,0,2004,0.0
+30,Michalis Kapsis,Greece,AEK Athens~~~Bordeaux,0,,,,,,0,2004,0.0
+30,Henrik Larsson,Sweden,Celtic~~~Barcelona,0,,,,,,0,2004,0.0
+30,Johan Micoud,France,Werder Bremen,0,,,,,,0,2004,0.0
+30,Mista,Spain,Valencia,0,,,,,,0,2004,0.0
+30,Alessandro Nesta,Italy,Milan,0,,,,,,0,2004,0.0
+30,Andrea Pirlo,Italy,Milan,0,,,,,,0,2004,0.0
+30,José Antonio Reyes,Spain,Sevilla~~~Arsenal,0,,,,,,0,2004,0.0
+30,Ronaldo,Brazil,Real Madrid,0,,,,,,0,2004,0.0
+30,Djibril Cissé,France,Auxerre~~~Liverpool,0,,,,,,0,2004,0.0
+30,Paul Scholes,England,Manchester United,0,,,,,,0,2004,0.0
+30,Clarence Seedorf,Netherlands,Milan,0,,,,,,0,2004,0.0
+30,Giourkas Seitaridis,Greece,Panathinaikos~~~Porto,0,,,,,,0,2004,0.0
+30,Francesco Totti,Italy,Roma,0,,,,,,0,2004,0.0
+30,Patrick Vieira,France,Arsenal,0,,,,,,0,2004,0.0
+1,Ronaldinho,Brazil,Barcelona,225,33.0,11.0,4.0,2.0,,50,2005,28.8462
+2,Frank Lampard,England,Chelsea,148,6.0,13.0,15.0,10.0,1.0,45,2005,18.9744
+3,Steven Gerrard,England,Liverpool,142,8.0,18.0,7.0,3.0,3.0,39,2005,18.2051
+4,Thierry Henry,France,Arsenal,41,2.0,1.0,6.0,3.0,3.0,15,2005,5.2564
+5,Andriy Shevchenko,Ukraine,Milan,33,,3.0,3.0,4.0,4.0,14,2005,4.2308
+6,Paolo Maldini,Italy,Milan,23,1.0,1.0,2.0,1.0,6.0,11,2005,2.9487
+7,Adriano,Brazil,Internazionale,22,,,4.0,2.0,6.0,12,2005,2.8205
+8,Zlatan Ibrahimović,Sweden,Juventus,21,,1.0,2.0,4.0,3.0,10,2005,2.6923
+9,Kaká,Brazil,Milan,19,,2.0,1.0,4.0,,7,2005,2.4359
+10,Samuel Eto'o,Cameroon,Barcelona,18,,1.0,2.0,3.0,2.0,8,2005,2.3077
+11,John Terry,England,Chelsea,18,,1.0,,3.0,8.0,12,2005,2.3077
+12,Juninho,Brazil,Lyon,15,,,1.0,3.0,6.0,10,2005,1.9231
+13,Claude Makélélé,France,Chelsea,8,1.0,,1.0,,,2,2005,1.0256
+14,Juan Román Riquelme,Argentina,Villarreal,7,,,1.0,2.0,,3,2005,0.8974
+14,Petr Čech,Czech Republic,Chelsea,7,,,1.0,1.0,2.0,4,2005,0.8974
+14,Didier Drogba,Ivory Coast,Chelsea,7,,,1.0,1.0,2.0,4,2005,0.8974
+14,Michael Ballack,Germany,Bayern Munich,7,,,,3.0,1.0,4,2005,0.8974
+18,Zinedine Zidane,France,Real Madrid,5,1.0,,,,,1,2005,0.641
+19,Gianluigi Buffon,Italy,Juventus,4,,,,1.0,2.0,3,2005,0.5128
+20,Jamie Carragher,England,Liverpool,3,,,1.0,,,1,2005,0.3846
+20,Cristiano Ronaldo,Portugal,Manchester United,3,,,,1.0,1.0,2,2005,0.3846
+22,Michael Essien,Ghana,Lyon~~~Chelsea,2,,,,1.0,,1,2005,0.2564
+23,Luis García,Spain,Liverpool,1,,,,,1.0,1,2005,0.1282
+23,Pavel Nedvěd,Czech Republic,Juventus,1,,,,,1.0,1,2005,0.1282
+25,Mauro Camoranesi,Italy,Juventus,0,,,,,,0,2005,0.0
+25,Fabio Cannavaro,Italy,Juventus,0,,,,,,0,2005,0.0
+25,Grégory Coupet,France,Lyon,0,,,,,,0,2005,0.0
+25,Cris,Brazil,Lyon,0,,,,,,0,2005,0.0
+25,Deco,Portugal,Barcelona,0,,,,,,0,2005,0.0
+25,Dida,Brazil,Milan,0,,,,,,0,2005,0.0
+25,Emerson,Brazil,Juventus,0,,,,,,0,2005,0.0
+25,Luís Figo,Portugal,Real Madrid~~~Internazionale,0,,,,,,0,2005,0.0
+25,Diego Forlán,Uruguay,Villarreal,0,,,,,,0,2005,0.0
+25,Roy Makaay,Netherlands,Bayern Munich,0,,,,,,0,2005,0.0
+25,Michael Owen,England,Real Madrid~~~Newcastle United,0,,,,,,0,2005,0.0
+25,Park Ji-sung,South Korea,PSV Eindhoven~~~Manchester United,0,,,,,,0,2005,0.0
+25,Andrea Pirlo,Italy,Milan,0,,,,,,0,2005,0.0
+25,Raúl,Spain,Real Madrid,0,,,,,,0,2005,0.0
+25,Arjen Robben,Netherlands,Chelsea,0,,,,,,0,2005,0.0
+25,Roberto Carlos,Brazil,Real Madrid,0,,,,,,0,2005,0.0
+25,Robinho,Brazil,Real Madrid,0,,,,,,0,2005,0.0
+25,Ronaldo,Brazil,Real Madrid,0,,,,,,0,2005,0.0
+25,Wayne Rooney,England,Manchester United,0,,,,,,0,2005,0.0
+25,Lilian Thuram,France,Juventus,0,,,,,,0,2005,0.0
+25,David Trezeguet,France,Juventus,0,,,,,,0,2005,0.0
+25,Mark van Bommel,Netherlands,PSV Eindhoven~~~Barcelona,0,,,,,,0,2005,0.0
+25,Ruud van Nistelrooy,Netherlands,Manchester United,0,,,,,,0,2005,0.0
+25,Patrick Vieira,France,Arsenal~~~Juventus,0,,,,,,0,2005,0.0
+25,Xavi,Spain,Barcelona,0,,,,,,0,2005,0.0
+1,Fabio Cannavaro,Italy,Juventus~~~Real Madrid,173,20.0,12.0,5.0,5.0,0.0,42,2006,22.1795
+2,Gianluigi Buffon,Italy,Juventus,124,14.0,6.0,8.0,2.0,2.0,32,2006,15.8974
+3,Thierry Henry,France,Arsenal,121,6.0,15.0,5.0,6.0,4.0,36,2006,15.5128
+4,Ronaldinho,Brazil,Barcelona,73,2.0,5.0,6.0,10.0,5.0,28,2006,9.359
+5,Zinedine Zidane,France,Real Madrid,71,6.0,4.0,5.0,3.0,4.0,22,2006,9.1026
+6,Samuel Eto'o,Cameroon,Barcelona,67,2.0,3.0,9.0,6.0,6.0,26,2006,8.5897
+7,Miroslav Klose,Germany,Werder Bremen,29,,1.0,4.0,4.0,5.0,14,2006,3.7179
+8,Didier Drogba,Ivory Coast,Chelsea,25,,1.0,3.0,5.0,2.0,11,2006,3.2051
+9,Andrea Pirlo,Italy,Milan,17,,2.0,1.0,2.0,2.0,7,2006,2.1795
+10,Jens Lehmann,Germany,Arsenal,13,1.0,1.0,,2.0,,4,2006,1.6667
+11,Deco,Portugal,Barcelona,11,,,2.0,2.0,1.0,5,2006,1.4103
+11,Kaká,Brazil,Milan,11,,,1.0,2.0,4.0,7,2006,1.4103
+13,Franck Ribéry,France,Marseille,9,,1.0,,,5.0,6,2006,1.1538
+14,Gennaro Gattuso,Italy,Milan,5,1.0,,,,,1,2006,0.641
+14,Patrick Vieira,France,Juventus~~~Internazionale,5,,1.0,,,1.0,9,2006,0.641
+14,Cristiano Ronaldo,Portugal,Manchester United,5,,,1.0,,2.0,3,2006,0.641
+17,Frank Lampard,England,Chelsea,3,,,1.0,,,1,2006,0.3846
+17,Lukas Podolski,Germany,1. FC Köln~~~Bayern Munich,3,,,1.0,,,1,2006,0.3846
+17,Carles Puyol,Spain,Barcelona,3,,,,,3.0,3,2006,0.3846
+20,Juninho,Brazil,Lyon,2,,,,1.0,,1,2006,0.2564
+20,Lionel Messi,Argentina,Barcelona,2,,,,1.0,,1,2006,0.2564
+20,Luca Toni,Italy,Fiorentina,2,,,,1.0,,1,2006,0.2564
+20,John Terry,England,Chelsea,2,,,,,2.0,2,2006,0.2564
+20,Gianluca Zambrotta,Italy,Juventus~~~Barcelona,2,,,,,2.0,2,2006,0.2564
+25,Philipp Lahm,Germany,Bayern Munich,1,,,,,1.0,1,2006,0.1282
+25,David Villa,Spain,Valencia,1,,,,,1.0,1,2006,0.1282
+27,Tim Cahill,Australia,Everton,0,,,,,,0,2006,0.0
+27,Joe Cole,England,Chelsea,0,,,,,,0,2006,0.0
+27,Grégory Coupet,France,Lyon,0,,,,,,0,2006,0.0
+27,Cris,Brazil,Lyon,0,,,,,,0,2006,0.0
+27,Mahamadou Diarra,Mali,Real Madrid,0,,,,,,0,2006,0.0
+27,Michael Essien,Ghana,Chelsea,0,,,,,,0,2006,0.0
+27,Cesc Fàbregas,Spain,Arsenal,0,,,,,,0,2006,0.0
+27,William Gallas,France,Chelsea~~~Arsenal,0,,,,,,0,2006,0.0
+27,Steven Gerrard,England,Liverpool,0,,,,,,0,2006,0.0
+27,Ludovic Giuly,France,Barcelona,0,,,,,,0,2006,0.0
+27,Fabio Grosso,Italy,Palermo~~~Internazionale,0,,,,,,0,2006,0.0
+27,Claude Makélélé,France,Chelsea,0,,,,,,0,2006,0.0
+27,Florent Malouda,France,Lyon,0,,,,,,0,2006,0.0
+27,Édison Méndez,Ecuador,LDU Quito~~~PSV Eindhoven,0,,,,,,0,2006,0.0
+27,Juan Román Riquelme,Argentina,Villarreal,0,,,,,,0,2006,0.0
+27,Arjen Robben,Netherlands,Chelsea,0,,,,,,0,2006,0.0
+27,Wayne Rooney,England,Manchester United,0,,,,,,0,2006,0.0
+27,Willy Sagnol,France,Bayern Munich,0,,,,,,0,2006,0.0
+27,Bastian Schweinsteiger,Germany,Bayern Munich,0,,,,,,0,2006,0.0
+27,Andriy Shevchenko,Ukraine,Milan~~~Chelsea,0,,,,,,0,2006,0.0
+27,Lilian Thuram,France,Juventus~~~Barcelona,0,,,,,,0,2006,0.0
+27,Tiago,Portugal,Lyon,0,,,,,,0,2006,0.0
+27,Fernando Torres,Spain,Atlético Madrid,0,,,,,,0,2006,0.0
