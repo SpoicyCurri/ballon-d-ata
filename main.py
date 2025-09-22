@@ -94,6 +94,8 @@ class BallonDorScraper:
         if not regular_data.empty:
             regular_data = pd.concat([regular_data, multi_header_data], ignore_index=True)
             regular_data = regular_data.drop(columns=["1st", "2nd", "3rd", "4th", "5th", "votes"])
+            regular_data = regular_data.sort_values(by=["year", "rank", "player"], ascending=[False, True, True])
+            regular_data = regular_data[["year", "rank", "player", "club", "nationality", "points", "percent", "position"]]
             regular_data = self.data_cleaner.calculate_percentage(regular_data)
             save_dataframe(regular_data, self.config.OUTPUT_FILE_REGULAR, self.config.OUTPUT_FORMAT)
         

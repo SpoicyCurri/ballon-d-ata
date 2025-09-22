@@ -38,14 +38,11 @@ class DataCleaner:
 
     def _clean_rank_column(self, df: pd.DataFrame, year: int) -> pd.DataFrame:
         if "rank" in df.columns:
-            if year != 2025:
                 df["rank"] = df["rank"].replace("MISSING_RANK", pd.NA)
                 df["rank"] = df["rank"].ffill()
                 df["rank"] = df["rank"].astype(str).str.replace(r'(\d+)[a-zA-Z]{2}$', r'\1', regex=True)
                 df["rank"] = df["rank"].str.strip().str.replace(" ", "")
                 df["rank"] = df["rank"].astype(float, errors="raise")
-            else:
-                df["rank"] = pd.NA  # No rank column in 2025 table
         return df
 
     def clean_multi_year_data(self, df: pd.DataFrame) -> pd.DataFrame:
