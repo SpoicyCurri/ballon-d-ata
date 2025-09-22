@@ -1,4 +1,4 @@
-# ⚽ Balon D'App 🏆
+# ⚽ Ballon D'App 🏆
 
 A web scraping tool that collected all the Balon d'Or nominations data into a single time series dataset, including the full history from 1956 to 2025. Also an animated racing bar chart of total nominations of players during their active periods.
 
